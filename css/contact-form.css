@@ -1,0 +1,26 @@
+.contact-form {
+    margin-top: 1rem;
+}
+
+.form-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.2rem;
+}
+
+.form-control {
+    padding: 0.5rem;
+    border: 0.1rem solid red;
+}
+
+.submit-button {
+    color: red;
+    background-color: white;
+}
+
+.submit-button:hover {
+    cursor: pointer;
+    color: white;
+    background-color: red;
+}
